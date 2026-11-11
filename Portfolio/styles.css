@@ -38,9 +38,10 @@ nav a:hover {
   margin: 0 auto;
   padding-left: 100px;
 }
-/* .avatar:hover {
+.avatar:hover {
     filter: drop-shadow(2px 2px 2px #fdd4b6);
-  } */
+  }
+   
 .icon-1:hover,
 .icon-2:hover {
   filter: drop-shadow(5px 5px 8px #ccff12);
